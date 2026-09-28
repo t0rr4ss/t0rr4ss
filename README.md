@@ -1,82 +1,141 @@
 <div align="center">
 
-# Olá! Eu sou João Pedro 👋
+![Banner João Pedro](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,72:6F42C1,100:00E5FF&height=200&section=header&text=Jo%C3%A3o%20Pedro&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=t0rr4ss%20%7C%20Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=17)
 
-### `t0rr4ss` · Estudante de tecnologia
+[![Terminal animado](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=780&lines=%24+inicializando+ambiente+de+desenvolvimento...;%24+carregando+conhecimentos+Full+Stack...;%24+conectando+software%2C+redes+e+seguran%C3%A7a...;%24+planejando+projetos+para+o+portf%C3%B3lio...;%24+sistema+pronto+para+aprender+e+evoluir.)](https://git.io/typing-svg)
 
-<!-- Para alterar as frases, edite o parâmetro "lines" no endereço abaixo. -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Estudante+de+Tecnologia;Desenvolvedor+em+forma%C3%A7%C3%A3o;Explorando+desenvolvimento+e+ciberseguran%C3%A7a;Construindo+uma+base+s%C3%B3lida%2C+linha+por+linha)](https://git.io/typing-svg)
+`2º período de Análise e Desenvolvimento de Sistemas (ADS)`
 
-Estudante do primeiro período, construindo fundamentos em desenvolvimento, infraestrutura e segurança.
-
-[![Visualizações do perfil](https://komarev.com/ghpvc/?username=t0rr4ss&label=Visualiza%C3%A7%C3%B5es&color=6f42c1&style=flat)](https://github.com/t0rr4ss)
+[![Visualizações](https://komarev.com/ghpvc/?username=t0rr4ss&label=VISITAS+AO+SISTEMA&color=6F42C1&style=flat-square)](https://github.com/t0rr4ss)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `SYSTEM://IDENTIDADE`
 
-Estou iniciando minha trajetória na tecnologia e desenvolvendo uma base sólida em **programação** e **desenvolvimento web**. Também tenho interesse em **redes de computadores**, **hardware** e **cibersegurança**, buscando compreender como software, equipamentos e comunicação de dados trabalham em conjunto.
+Sou estudante do **segundo período de Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo uma base consistente em **desenvolvimento Full Stack**. Minha trilha reúne fundamentos de Front-end, Back-end e programação, com estudos em JavaScript, Java e versionamento de código.
 
-Uso este GitHub para registrar minha evolução, compartilhar práticas e organizar projetos acadêmicos e pessoais. Cada repositório representa uma etapa do meu aprendizado.
+Também tenho interesse em **redes de computadores, hardware e cibersegurança**. Quero entender não apenas como uma aplicação é construída, mas como ela se conecta a servidores, redes e equipamentos. Uso o GitHub como registro da minha evolução e como base para os projetos que futuramente formarão meu portfólio.
 
-```java
-public class JoaoPedro {
-    String momento = "Segundo período";
-    String[] estudos = {"Desenvolvimento", "Redes", "Hardware", "Cibersegurança"};
-    String objetivo = "Aprender, praticar e evoluir";
-}
+Valorizo aprendizado contínuo, organização e prática: compreender os fundamentos antes de transformar conhecimento em soluções completas.
+
+```javascript
+const joaoPedro = {
+  curso: "Análise e Desenvolvimento de Sistemas",
+  periodo: 2,
+  objetivo: "Desenvolvimento Full Stack",
+  estudando: ["JavaScript", "Java", "Git", "Redes", "Cibersegurança"],
+  status: "Construindo uma base sólida"
+};
 ```
 
-## 📚 Tecnologias em aprendizado
+## `SYSTEM://STACK_EM_CONSTRUÇÃO`
 
-### Desenvolvimento
+> Tecnologias e conceitos que fazem parte da minha trilha atual de aprendizado.
 
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+### Interface e experiência
 
-### Ferramentas e versionamento
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=00E5FF)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=9FEF00)
 
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=22A7F2)
+### Back-end e programação
+
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=8B5CF6)
+![Fundamentos de APIs](https://img.shields.io/badge/Fundamentos_de_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=9FEF00)
+![Lógica](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-111827?style=for-the-badge&logo=codeforces&logoColor=00E5FF)
+![POO](https://img.shields.io/badge/Orienta%C3%A7%C3%A3o_a_Objetos-111827?style=for-the-badge&logo=buffer&logoColor=8B5CF6)
+
+### Versionamento e ambiente
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=9FEF00)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=8B5CF6)
 
 ### Infraestrutura e segurança
 
-![Redes de computadores](https://img.shields.io/badge/Redes_de_Computadores-111827?style=for-the-badge&logo=cisco&logoColor=00E5FF)
+![Redes](https://img.shields.io/badge/Redes_de_Computadores-111827?style=for-the-badge&logo=cisco&logoColor=00E5FF)
 ![Hardware](https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=amd&logoColor=8B5CF6)
 ![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
-## 🚀 Projetos de estudo
+## `SYSTEM://BACKLOG_DO_PORTFÓLIO`
 
-| Projeto | Descrição | Repositório |
-| :--- | :--- | :---: |
-| **Bere** | Sistema de mercearia desenvolvido como projeto de programação em C. | [Acessar](https://github.com/t0rr4ss/Bere) |
-| **torrasowent.github.io** | Projeto de estudo voltado à prática de desenvolvimento web. | [Acessar](https://github.com/t0rr4ss/torrasowent.github.io) |
-| **Pokédex** | Projeto desenvolvido para praticar fundamentos de programação. | [Acessar](https://github.com/t0rr4ss/pokedex) |
+> Os projetos abaixo estão **planejados** e ainda serão desenvolvidos conforme minha evolução no curso.
 
-## 🎯 Objetivos atuais
+<details>
+<summary><strong>01 · Sistema de gerenciamento de tarefas — Planejado</strong></summary>
+<br />
 
-- Fortalecer minha lógica de programação.
-- Evoluir em HTML, CSS e JavaScript.
-- Aprender programação orientada a objetos com Java.
-- Desenvolver boas práticas com Git e GitHub.
-- Entender os fundamentos de redes e hardware.
-- Iniciar estudos práticos de cibersegurança.
-- Criar projetos próprios e documentar minha evolução.
+- Cadastro, edição e organização de tarefas.
+- Interface responsiva.
+- API e persistência de dados.
 
-## 📊 Estatísticas do GitHub
+</details>
+
+<details>
+<summary><strong>02 · Plataforma de controle financeiro — Planejado</strong></summary>
+<br />
+
+- Registro de receitas e despesas.
+- Organização por categorias e filtros.
+- Dashboard com gráficos para acompanhamento.
+
+</details>
+
+<details>
+<summary><strong>03 · Sistema de inventário de hardware — Planejado</strong></summary>
+<br />
+
+- Cadastro de computadores e componentes.
+- Controle de manutenção.
+- Histórico dos equipamentos.
+
+</details>
+
+<details>
+<summary><strong>04 · Laboratório de redes e segurança — Planejado</strong></summary>
+<br />
+
+- Documentação de topologias.
+- Exercícios de configuração de redes.
+- Registro de práticas introdutórias de cibersegurança.
+
+</details>
+
+<details>
+<summary><strong>05 · Aplicação Full Stack autoral — Em breve</strong></summary>
+<br />
+
+- Tema ainda em definição.
+- Front-end, Back-end, banco de dados e documentação.
+- Integração dos conhecimentos adquiridos durante o curso.
+
+</details>
+
+## `SYSTEM://ROADMAP_DE_APRENDIZADO`
+
+- [ ] Consolidar os fundamentos de HTML e CSS.
+- [ ] Aprofundar meus conhecimentos em JavaScript.
+- [ ] Fortalecer a lógica de programação.
+- [ ] Evoluir em Java e orientação a objetos.
+- [ ] Estudar criação e consumo de APIs.
+- [ ] Aprender fundamentos de bancos de dados.
+- [ ] Desenvolver aplicações Full Stack.
+- [ ] Praticar redes de computadores.
+- [ ] Iniciar laboratórios de cibersegurança.
+- [ ] Publicar projetos completos para o portfólio.
+
+## `SYSTEM://TELEMETRIA_DO_GITHUB`
 
 <div align="center">
 
 <a href="https://github.com/t0rr4ss">
-  <img height="165" alt="Estatísticas do GitHub de João Pedro" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t0rr4ss&theme=tokyonight" />
+  <img height="190" alt="Estatísticas do GitHub de João Pedro" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t0rr4ss&theme=tokyonight" />
 </a>
 <a href="https://github.com/t0rr4ss?tab=repositories">
-  <img height="165" alt="Linguagens mais utilizadas por João Pedro" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t0rr4ss&theme=tokyonight" />
+  <img height="190" alt="Linguagens utilizadas por João Pedro" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t0rr4ss&theme=tokyonight" />
 </a>
 
 <br />
@@ -87,19 +146,19 @@ public class JoaoPedro {
 
 </div>
 
-## 📫 Contato
+## `SYSTEM://CANAIS_DE_CONTATO`
 
 <!-- Substitua LINK_DO_LINKEDIN pelo endereço completo do seu perfil no LinkedIn. -->
 <!-- Substitua SEU_EMAIL pelo seu endereço de e-mail. -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/t0rr4ss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](LINK_DO_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/t0rr4ss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6)](LINK_DO_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=9FEF00)](mailto:SEU_EMAIL)
 
 ---
 
 <div align="center">
 
-### 💻 Aprendendo, praticando e evoluindo um commit de cada vez.
+`STATUS: ONLINE` · Sistema em construção, conhecimento em atualização contínua.
 
 </div>
