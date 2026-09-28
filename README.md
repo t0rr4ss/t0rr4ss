@@ -1,18 +1,25 @@
 <div align="center">
 
-![Banner João Pedro](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,72:6F42C1,100:00E5FF&height=200&section=header&text=Jo%C3%A3o%20Pedro&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=t0rr4ss%20%7C%20Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=17)
-
-[![Terminal animado](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=780&lines=%24+inicializando+ambiente+de+desenvolvimento...;%24+carregando+conhecimentos+Full+Stack...;%24+conectando+software%2C+redes+e+seguran%C3%A7a...;%24+planejando+projetos+para+o+portf%C3%B3lio...;%24+sistema+pronto+para+aprender+e+evoluir.)](https://git.io/typing-svg)
-
-`2º período de Análise e Desenvolvimento de Sistemas (ADS)`
-
-[![Visualizações](https://komarev.com/ghpvc/?username=t0rr4ss&label=VISITAS+AO+SISTEMA&color=6F42C1&style=flat-square)](https://github.com/t0rr4ss)
+<table align="center">
+  <tr>
+    <td align="center">
+      <br />
+      <h1>João Pedro</h1>
+      <p><code>t0rr4ss</code> &nbsp;·&nbsp; <strong>Desenvolvedor Full Stack em formação</strong></p>
+      <p><strong>ADS · 2º período</strong> &nbsp;|&nbsp; Software · Redes · Segurança</p>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2700&amp;pause=800&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=%24+preparando+ambiente+Full+Stack...;%24+conectando+aplica%C3%A7%C3%B5es%2C+redes+e+seguran%C3%A7a...;%24+registrando+ideias+para+o+portf%C3%B3lio...;%24+pr%C3%B3ximo+passo%3A+aprender+e+construir." alt="Terminal de inicialização" /></a>
+      <br />
+      <a href="https://github.com/t0rr4ss"><img src="https://komarev.com/ghpvc/?username=t0rr4ss&amp;label=VISITAS+AO+PERFIL&amp;color=6F42C1&amp;style=flat-square" alt="Visitas ao perfil" /></a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## `SYSTEM://IDENTIDADE`
+## Identidade
 
 Sou estudante do **segundo período de Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo uma base consistente em **desenvolvimento Full Stack**. Minha trilha reúne fundamentos de Front-end, Back-end e programação, com estudos em JavaScript, Java e versionamento de código.
 
@@ -20,17 +27,7 @@ Também tenho interesse em **redes de computadores, hardware e cibersegurança**
 
 Valorizo aprendizado contínuo, organização e prática: compreender os fundamentos antes de transformar conhecimento em soluções completas.
 
-```javascript
-const joaoPedro = {
-  curso: "Análise e Desenvolvimento de Sistemas",
-  periodo: 2,
-  objetivo: "Desenvolvimento Full Stack",
-  estudando: ["JavaScript", "Java", "Git", "Redes", "Cibersegurança"],
-  status: "Construindo uma base sólida"
-};
-```
-
-## `SYSTEM://STACK_EM_CONSTRUÇÃO`
+## Stack em construção
 
 > Tecnologias e conceitos que fazem parte da minha trilha atual de aprendizado.
 
@@ -60,7 +57,7 @@ const joaoPedro = {
 ![Hardware](https://img.shields.io/badge/Hardware-111827?style=for-the-badge&logo=amd&logoColor=8B5CF6)
 ![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
-## `SYSTEM://BACKLOG_DO_PORTFÓLIO`
+## Projetos planejados para o portfólio
 
 > Os projetos abaixo estão **planejados** e ainda serão desenvolvidos conforme minha evolução no curso.
 
@@ -114,7 +111,7 @@ const joaoPedro = {
 
 </details>
 
-## `SYSTEM://ROADMAP_DE_APRENDIZADO`
+## Roadmap de aprendizado
 
 - [ ] Consolidar os fundamentos de HTML e CSS.
 - [ ] Aprofundar meus conhecimentos em JavaScript.
@@ -127,7 +124,7 @@ const joaoPedro = {
 - [ ] Iniciar laboratórios de cibersegurança.
 - [ ] Publicar projetos completos para o portfólio.
 
-## `SYSTEM://TELEMETRIA_DO_GITHUB`
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -146,7 +143,7 @@ const joaoPedro = {
 
 </div>
 
-## `SYSTEM://CANAIS_DE_CONTATO`
+## Contato
 
 <!-- Substitua LINK_DO_LINKEDIN pelo endereço completo do seu perfil no LinkedIn. -->
 <!-- Substitua SEU_EMAIL pelo seu endereço de e-mail. -->
