@@ -73,10 +73,10 @@ public class JoaoPedro {
 <div align="center">
 
 <a href="https://github.com/t0rr4ss">
-  <img height="165" alt="Estatísticas do GitHub de João Pedro" src="https://github-readme-stats.vercel.app/api?username=t0rr4ss&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" />
+  <img height="165" alt="Estatísticas do GitHub de João Pedro" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t0rr4ss&theme=tokyonight" />
 </a>
 <a href="https://github.com/t0rr4ss?tab=repositories">
-  <img height="165" alt="Linguagens mais utilizadas por João Pedro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0rr4ss&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" alt="Linguagens mais utilizadas por João Pedro" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t0rr4ss&theme=tokyonight" />
 </a>
 
 <br />
