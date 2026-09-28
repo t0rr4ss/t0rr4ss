@@ -23,7 +23,7 @@ Uso este GitHub para registrar minha evolução, compartilhar práticas e organi
 
 ```java
 public class JoaoPedro {
-    String momento = "Primeiro período";
+    String momento = "Segundo período";
     String[] estudos = {"Desenvolvimento", "Redes", "Hardware", "Cibersegurança"};
     String objetivo = "Aprender, praticar e evoluir";
 }
